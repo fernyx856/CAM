@@ -1,0 +1,5 @@
+C:\Users\diosk\source\repos\CAM\businessLayer\bin\Debug\businessLayer.dll
+C:\Users\diosk\source\repos\CAM\businessLayer\bin\Debug\businessLayer.pdb
+C:\Users\diosk\source\repos\CAM\businessLayer\obj\Debug\businessLayer.csproj.CoreCompileInputs.cache
+C:\Users\diosk\source\repos\CAM\businessLayer\obj\Debug\businessLayer.dll
+C:\Users\diosk\source\repos\CAM\businessLayer\obj\Debug\businessLayer.pdb

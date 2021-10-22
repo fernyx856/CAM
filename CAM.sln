@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentationLayer", "CAM\presentationLayer.csproj", "{A067FC19-46BC-41EA-9024-46F457656846}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "businessLayer", "businessLayer\businessLayer.csproj", "{7975AE7A-483C-4FF3-8FF6-27C83930D2CE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1dataLayer", "1dataLayer\1dataLayer.csproj", "{359102C4-9758-448E-BC88-43303187219F}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A067FC19-46BC-41EA-9024-46F457656846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A067FC19-46BC-41EA-9024-46F457656846}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A067FC19-46BC-41EA-9024-46F457656846}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A067FC19-46BC-41EA-9024-46F457656846}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7975AE7A-483C-4FF3-8FF6-27C83930D2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7975AE7A-483C-4FF3-8FF6-27C83930D2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7975AE7A-483C-4FF3-8FF6-27C83930D2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
