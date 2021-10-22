@@ -1,0 +1,9 @@
+C:\Users\arias\Source\Repos\CAM\presentationLayer\bin\Debug\presentationLayer.exe.config
+C:\Users\arias\Source\Repos\CAM\presentationLayer\bin\Debug\presentationLayer.exe
+C:\Users\arias\Source\Repos\CAM\presentationLayer\bin\Debug\presentationLayer.pdb
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.csprojAssemblyReference.cache
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.Properties.Resources.resources
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.csproj.GenerateResource.cache
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.exe
+C:\Users\arias\Source\Repos\CAM\presentationLayer\obj\Debug\presentationLayer.pdb
