@@ -13,4 +13,12 @@ namespace _1dataLayer
         public string edad { get; set; }
 
     }
+
+    public class maestroDTO
+    {
+        public int idPrueba { get; set; }
+        public string nombre { get; set; }
+        public string edad { get; set; }
+
+    }
 }
