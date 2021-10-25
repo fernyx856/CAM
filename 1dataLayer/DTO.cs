@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace _1dataLayer
 {
-    public class Class1
+    public class alumnoDTO
     {
+        public int idPrueba { get; set; }
+        public string nombre { get; set; } 
+        public string edad { get; set; }
+
     }
 }
