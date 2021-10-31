@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace _1dataLayer
 {
+    public class AlexisDTO
+    {
+    }
 
     public class alumno
     {
@@ -52,21 +55,22 @@ namespace _1dataLayer
         string numero_trabajo_madre { get; set; }
 
     }
-    public class telefono_madre {
+    public class telefono_madre
+    {
         int id_madre { get; }
 
-       int   id_telefono{get;}
-        string telefono { get; set; }    
+        int id_telefono { get; }
+        string telefono { get; set; }
     }
-    
+
 
     public class info_medica
     {
         int id_alumno { get; }
         int id_cartilla_medica { get; set; }
-            string servicio_medico { get; set; }
-            string grupo_sanguineo { get; set; }
-            string telefono_contacto { get; set; }
+        string servicio_medico { get; set; }
+        string grupo_sanguineo { get; set; }
+        string telefono_contacto { get; set; }
 
     }
     public class enfermedades
